@@ -233,8 +233,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ### URL
-*Libraries for parsing URLs.*
-
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
